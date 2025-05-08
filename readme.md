@@ -1,4 +1,4 @@
 # image
  
 
-![roses](./images/roses.jpg)
+![roses](/images/roses.jpg)
