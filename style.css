@@ -3,9 +3,18 @@ body {
   margin: 80px;
   padding: 20px;
   font-size: 18px;
-  background-color: #f9f9f9;
+  background-color: #f9f9f9; 
 }
-
+ 
+body {
+background-image: url('images/blog.png');
+background-size: cover;
+background-repeat: repeat;
+background-position: center;
+height: 100vh; 
+margin: 0;
+}
+ 
 .container {
   max-width: 1000px;
   margin: 0 auto;
